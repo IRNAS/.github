@@ -1,0 +1,8 @@
+{
+    "name": "Draft new release workflow",
+    "description": "Workflow that creates a release PR to the master branch.",
+    "iconName": "example-icon",
+    "categories": [
+        "C"
+    ]
+}

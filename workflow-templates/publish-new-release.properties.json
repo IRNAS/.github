@@ -1,0 +1,8 @@
+{
+    "name": "Publish new release workflow",
+    "description": "Creates a new Github Release with generated Release Notes.",
+    "iconName": "example-icon",
+    "categories": [
+        "C"
+    ]
+}
